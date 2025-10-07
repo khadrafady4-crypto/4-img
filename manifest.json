@@ -1,9 +1,9 @@
 {
   "name": "لعبة 4 صور",
-  "short_name": "اللعبة",
+  "short_name": "4 صور",
   "start_url": "https://www.shaaaf.com/2025/10/gameplay4img.html",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#1f001a",
   "theme_color": "#007bff",
   "icons": [
     {
@@ -18,3 +18,4 @@
     }
   ]
 }
+
